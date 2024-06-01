@@ -1,2 +1,2 @@
 # Full Stack Software Developer
-#### PHP, Laravel, WordPress, Javascript, jQuery, React, Vue 3
+### PHP, Laravel, WordPress, Javascript, jQuery, React, Vue 3
